@@ -2,7 +2,7 @@
 Contributors: Michael Aronoff
 Tags: maps, direction, contact, google
 Requires at least: 3.3
-Tested up to: 6.5
+Tested up to: 6.6
 Requires PHP: 5.6
 Stable tag: 2.9.1
 License: GPLv2 or later
