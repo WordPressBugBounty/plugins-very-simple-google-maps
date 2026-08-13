@@ -2,9 +2,9 @@
 Contributors: Michael Aronoff
 Tags: maps, direction, contact, google
 Requires at least: 3.3
-Tested up to: 6.8
+Tested up to: 7.1
 Requires PHP: 5.6
-Stable tag: 2.9.1
+Stable tag: 2.9.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -124,3 +124,6 @@ Update to address security issue
 
 = 2.9.1 =
 Update to address XSS security issue as reported by István Márton, Wordfence Vulnerability Researcher. Thanks for the responsible disclosure.
+
+= 2.9.2 =
+Tested with WP 7.1
